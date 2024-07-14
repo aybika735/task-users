@@ -1,0 +1,14 @@
+.sort::before {
+    content: "";
+    position: absolute;
+    display: block;
+    border-bottom: 5px solid;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    margin: -1px .3em 0 0;
+    left: 5px;
+    top: 40%;
+  }
+span {
+  margin-left: 5px;
+}
