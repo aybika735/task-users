@@ -135,46 +135,6 @@
       "role": "waiter",
       "phone": "+7 (877) 450-3253",
       "birthday": "03.12.1994"
-    },
-    {
-      "id": 18,
-      "name": "nodemailа",
-      "phone": "+7 (971) 575-2645",
-      "birthday": "26.07.1968",
-      "role": "cook",
-      "isArchive": false
-    },
-    {
-      "id": 19,
-      "name": "Бика",
-      "phone": "+7 (971) 575-2645",
-      "birthday": "26.07.1968",
-      "role": "cook",
-      "isArchive": false
-    },
-    {
-      "id": 20,
-      "name": "nodemail123",
-      "phone": "+7 (928) 000-1742",
-      "birthday": "29.11.1990",
-      "role": "waiter",
-      "isArchive": false
-    },
-    {
-      "id": 21,
-      "name": "Айбика Бексултанова",
-      "phone": "+7 (971) 575-2645",
-      "birthday": "26.07.1968",
-      "role": "cook",
-      "isArchive": false
-    },
-    {
-      "id": 22,
-      "name": "Айбика Бексултанова",
-      "phone": "+7 (971) 575-2645",
-      "birthday": "26.07.1968",
-      "role": "driver",
-      "isArchive": false
     }
   ]
 }
